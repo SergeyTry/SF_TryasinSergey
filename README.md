@@ -1,2 +1,2 @@
 # SF_TryasinSergey
-SА Homework
+SF Homework
